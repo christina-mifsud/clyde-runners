@@ -1,0 +1,16 @@
+John 70
+Peter 90
+Anne 75
+William 70
+Betty 95
+Colin 103
+Natalie 80
+Paul 110
+Chantelle 68
+Gavin 120
+Elliot 80
+Al 140
+Richard 90
+Callum 72
+Adam 78
+Pauline 97
